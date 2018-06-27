@@ -1,0 +1,11 @@
+/home/desfid/Desktop/Ducks/bin/Debug/netcoreapp2.1/Ducks.deps.json
+/home/desfid/Desktop/Ducks/bin/Debug/netcoreapp2.1/Ducks.runtimeconfig.json
+/home/desfid/Desktop/Ducks/bin/Debug/netcoreapp2.1/Ducks.runtimeconfig.dev.json
+/home/desfid/Desktop/Ducks/bin/Debug/netcoreapp2.1/Ducks.dll
+/home/desfid/Desktop/Ducks/bin/Debug/netcoreapp2.1/Ducks.pdb
+/home/desfid/Desktop/Ducks/obj/Debug/netcoreapp2.1/Ducks.csprojAssemblyReference.cache
+/home/desfid/Desktop/Ducks/obj/Debug/netcoreapp2.1/Ducks.csproj.CoreCompileInputs.cache
+/home/desfid/Desktop/Ducks/obj/Debug/netcoreapp2.1/Ducks.AssemblyInfoInputs.cache
+/home/desfid/Desktop/Ducks/obj/Debug/netcoreapp2.1/Ducks.AssemblyInfo.cs
+/home/desfid/Desktop/Ducks/obj/Debug/netcoreapp2.1/Ducks.dll
+/home/desfid/Desktop/Ducks/obj/Debug/netcoreapp2.1/Ducks.pdb
